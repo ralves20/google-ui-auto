@@ -1,4 +1,4 @@
-The Challenge of Automation a Web UI Test for the Ticket Search
+The Challenge of Automation a Web UI Test for the Google Search
 
 ## The Challenge Details
 
